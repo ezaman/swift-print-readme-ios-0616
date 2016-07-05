@@ -1,19 +1,24 @@
-var favoriteWord = "mercurial"    // Use your own favorite word!
-var favoriteColor = "blue"        // Use your own favorite color!
-var favoriteMusician = "Nirvana"  // Use your own favorite musician!
+var favoriteWord = "Cool"
+var favoriteColor = "Black"
+var favoriteMusician = "Mozart"
 
-print(favoriteWord)
-print(favoriteColor)
-print(favoriteMusician)
+print (favoriteWord)
+print (favoriteColor)
+print (favoriteMusician)
 
-print("I'm printing a string in Swift!")
+print("I'm printing a string in Swift!!!")
+print("Let's go Knicks!")
 
 print("Hi Mom! My favorite word is serendipity, my favorite color is green, and my favorite musician is Billy Joel.")
 
-let color = "blue"
-print("The sky is \(color).")
+let color = "green"
+print("The grass is \(color)er on the other side.")
 
-print("Hi Mom! My favorite word is \(favoriteWord), my favorite color is \(favoriteColor), and my favorite musician is \(favoriteMusician).")
+print("Hi Mom! My favorite word is '\(favoriteWord)', my favorite color is '\(favoriteColor)', and my favorite musician is '\(favoriteMusician).'")
 
-var skySentence = "The sky is \(color)."
-print(skySentence)
+var randomSentence = "Your shirt is \(color)."
+print (randomSentence)
+
+
+
+
